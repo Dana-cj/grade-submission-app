@@ -1,4 +1,4 @@
-package com.ltp.gradesubmission;
+package com.dana.gradesubmission;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

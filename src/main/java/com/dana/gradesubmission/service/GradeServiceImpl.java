@@ -1,12 +1,12 @@
-package com.ltp.gradesubmission.service;
+package com.dana.gradesubmission.service;
 
-import com.ltp.gradesubmission.entity.Course;
-import com.ltp.gradesubmission.entity.Grade;
-import com.ltp.gradesubmission.entity.Student;
-import com.ltp.gradesubmission.exception.GradeNotFoundException;
-import com.ltp.gradesubmission.repository.CourseRepository;
-import com.ltp.gradesubmission.repository.GradeRepository;
-import com.ltp.gradesubmission.repository.StudentRepository;
+import com.dana.gradesubmission.entity.Grade;
+import com.dana.gradesubmission.entity.Student;
+import com.dana.gradesubmission.exception.GradeNotFoundException;
+import com.dana.gradesubmission.repository.CourseRepository;
+import com.dana.gradesubmission.repository.GradeRepository;
+import com.dana.gradesubmission.repository.StudentRepository;
+import com.dana.gradesubmission.entity.Course;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

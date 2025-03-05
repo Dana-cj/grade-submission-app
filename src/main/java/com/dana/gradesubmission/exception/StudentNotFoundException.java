@@ -1,4 +1,4 @@
-package com.ltp.gradesubmission.exception;
+package com.dana.gradesubmission.exception;
 
 public class StudentNotFoundException extends RuntimeException { 
 

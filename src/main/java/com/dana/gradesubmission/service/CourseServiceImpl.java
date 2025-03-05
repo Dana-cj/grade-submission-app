@@ -1,10 +1,10 @@
-package com.ltp.gradesubmission.service;
+package com.dana.gradesubmission.service;
 
-import com.ltp.gradesubmission.entity.Course;
-import com.ltp.gradesubmission.entity.Student;
-import com.ltp.gradesubmission.exception.CourseNotFoundException;
-import com.ltp.gradesubmission.repository.CourseRepository;
-import com.ltp.gradesubmission.repository.StudentRepository;
+import com.dana.gradesubmission.exception.CourseNotFoundException;
+import com.dana.gradesubmission.entity.Course;
+import com.dana.gradesubmission.entity.Student;
+import com.dana.gradesubmission.repository.CourseRepository;
+import com.dana.gradesubmission.repository.StudentRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

@@ -1,10 +1,10 @@
-package com.ltp.gradesubmission;
+package com.dana.gradesubmission;
 
 
-import com.ltp.gradesubmission.entity.Course;
-import com.ltp.gradesubmission.entity.Student;
-import com.ltp.gradesubmission.repository.CourseRepository;
-import com.ltp.gradesubmission.repository.StudentRepository;
+import com.dana.gradesubmission.entity.Course;
+import com.dana.gradesubmission.entity.Student;
+import com.dana.gradesubmission.repository.CourseRepository;
+import com.dana.gradesubmission.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

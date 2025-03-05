@@ -1,4 +1,4 @@
-package com.ltp.gradesubmission.entity;
+package com.dana.gradesubmission.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.*;

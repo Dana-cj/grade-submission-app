@@ -1,7 +1,7 @@
-package com.ltp.gradesubmission.service;
+package com.dana.gradesubmission.service;
 
-import com.ltp.gradesubmission.entity.Course;
-import com.ltp.gradesubmission.entity.Student;
+import com.dana.gradesubmission.entity.Course;
+import com.dana.gradesubmission.entity.Student;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package com.ltp.gradesubmission.repository;
+package com.dana.gradesubmission.repository;
 
-import com.ltp.gradesubmission.entity.Course;
+import com.dana.gradesubmission.entity.Course;
 import org.springframework.data.repository.CrudRepository;
 
 public interface CourseRepository extends CrudRepository<Course, Long> {

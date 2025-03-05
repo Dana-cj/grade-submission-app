@@ -1,6 +1,6 @@
-package com.ltp.gradesubmission.repository;
+package com.dana.gradesubmission.repository;
 
-import com.ltp.gradesubmission.entity.Grade;
+import com.dana.gradesubmission.entity.Grade;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.transaction.annotation.Transactional;
 

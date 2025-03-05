@@ -1,4 +1,4 @@
-package com.ltp.gradesubmission.entity;
+package com.dana.gradesubmission.entity;
 
 import lombok.Getter;
 import lombok.Setter;

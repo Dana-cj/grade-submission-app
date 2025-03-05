@@ -1,8 +1,8 @@
-package com.ltp.gradesubmission.web;
+package com.dana.gradesubmission.web;
 
-import com.ltp.gradesubmission.entity.Course;
-import com.ltp.gradesubmission.entity.Student;
-import com.ltp.gradesubmission.service.CourseService;
+import com.dana.gradesubmission.entity.Course;
+import com.dana.gradesubmission.entity.Student;
+import com.dana.gradesubmission.service.CourseService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
